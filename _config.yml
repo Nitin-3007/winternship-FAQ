@@ -4,6 +4,7 @@
 header_pages:
   - Faq.md
   - Intro.md
+  - case-studies.md
 
 
 markdown: kramdown
@@ -24,4 +25,9 @@ plugins:
   - jekyll-feed
 
 timezone: IST
+
+collections:
+  case_studies:
+    output: true
+    permalink: /case-studies/:slug/
 

@@ -1,3 +1,11 @@
+---
+title: A Internship Journey
+author: Pratheek Gaba
+nptel_id: WIN25310
+---
+
+# A Internship Journey
+
 I logged into my **IIT Ropar** internship expecting lessons. What I didn’t expect was a quiet upgrade to my thinking software.
 
 Two weeks in, this experience has turned out to be far more meaningful than a checklist of tasks or outcomes. What stands out is not a single assignment, but the way this internship subtly reshapes how problems are approached and questions are framed.

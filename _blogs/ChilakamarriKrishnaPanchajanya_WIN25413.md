@@ -4,9 +4,16 @@ author: Chilakamarri Krishna Panchajanya
 nptel_id: WIN25413
 ---
 
+**LinkedIn Article:**  
+https://www.linkedin.com/pulse/my-nptel-winter-internship-experience-chilakamarri-86enc
+
+**LinkedIn Profile:**  
+https://www.linkedin.com/in/krishna-panchajanya-chilakamarri-9247b3257/
+
+
 # My NPTEL WINTER INTERNSHIP EXPERIENCE
 
-## Chilakamarri Krishna
+## Chilakamarri Krishna Panchajanya
 
 When I was in my III BTech II Semester, one of my professors named Abdul S Kani suggested me and my friends to write the NPTEL Examination. At first, we were reluctant and thought about the 1000₹ we needed to spend and the amount of work I had to do to finish the weekly assignments and listen to NPTEL classes along with my college work.
 

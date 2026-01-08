@@ -65,17 +65,18 @@ body {
 }
 
 .dashboard-menu {
-  width: 240px;
+  width: 260px;
   background: #f3f4fb;
   border-right: 1px solid #ddd;
-  padding: 10px;
+  padding: 12px;
 }
 
 .menu-item {
-  padding: 12px;
-  margin-bottom: 6px;
+  padding: 12px 14px;
+  margin-bottom: 8px;
   cursor: pointer;
   border-radius: 6px;
+  font-weight: 500;
   color: #1a237e;
 }
 
@@ -109,6 +110,7 @@ iframe {
   padding: 60px;
   text-align: center;
   font-size: 16px;
+  color: #555;
 }
 </style>
 </head>
@@ -130,59 +132,63 @@ iframe {
   <div class="tab" onclick="showTab(4)">Tickets</div>
 </div>
 
-<!-- DASHBOARD TAB -->
+<!-- ================= DASHBOARD TAB ================= -->
 <div class="tab-content active">
   <div class="dashboard-inner">
 
+    <!-- Left Menu -->
     <div class="dashboard-menu">
-      <div class="menu-item active" onclick="showDashboardItem(0)">Institute Progress</div>
-      <div class="menu-item" onclick="showDashboardItem(1)">Vibe Progress</div>
-      <div class="menu-item" onclick="showDashboardItem(2)">CS Stack Progress</div>
-      <div class="menu-item" onclick="showDashboardItem(3)">CS Lesson Progress</div>
-      <div class="menu-item" onclick="showDashboardItem(4)">Top Three</div>
-      <div class="menu-item" onclick="showDashboardItem(5)">Final Summary</div>
+      <div class="menu-item active" onclick="showDashboardItem(0)">
+        State-Wise Progress
+      </div>
+      <div class="menu-item" onclick="showDashboardItem(1)">
+        Institute Progress
+      </div>
+      <div class="menu-item" onclick="showDashboardItem(2)">
+        Top Three
+      </div>
     </div>
 
+    <!-- Right Content -->
     <div class="dashboard-view">
+
+      <!-- 1️⃣ State-Wise Progress (LOCAL HTML FILE) -->
       <iframe class="dash-frame active"
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQikYOJQx4cmwGmF8qgmcR7UFPD4NQc69XzI_BR59fIWpx39bQgy4AlG7EQc8ejdW1112YhYLcMnyo0/pubhtml?gid=850605842&single=true&widget=true&headers=false"></iframe>
+        src="./statewise_percentage_map_4.html">
+      </iframe>
 
+      <!-- 2️⃣ Institute Progress (Google Sheet) -->
       <iframe class="dash-frame"
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQikYOJQx4cmwGmF8qgmcR7UFPD4NQc69XzI_BR59fIWpx39bQgy4AlG7EQc8ejdW1112YhYLcMnyo0/pubchart?oid=1996443652&format=interactive"></iframe>
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQikYOJQx4cmwGmF8qgmcR7UFPD4NQc69XzI_BR59fIWpx39bQgy4AlG7EQc8ejdW1112YhYLcMnyo0/pubhtml?gid=850605842&single=true&widget=true&headers=false">
+      </iframe>
 
-      <iframe class="dash-frame"
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQikYOJQx4cmwGmF8qgmcR7UFPD4NQc69XzI_BR59fIWpx39bQgy4AlG7EQc8ejdW1112YhYLcMnyo0/pubchart?oid=267156062&format=interactive"></iframe>
+      <!-- 3️⃣ Top Three (Placeholder for now) -->
+      <div class="dash-frame placeholder">
+        Top Three dashboard will be added here.
+      </div>
 
-      <iframe class="dash-frame"
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQikYOJQx4cmwGmF8qgmcR7UFPD4NQc69XzI_BR59fIWpx39bQgy4AlG7EQc8ejdW1112YhYLcMnyo0/pubchart?oid=1679453273&format=interactive"></iframe>
-
-      <iframe class="dash-frame"
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vEXAMPLE5/pubhtml"></iframe>
-
-      <iframe class="dash-frame"
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vEXAMPLE6/pubhtml"></iframe>
     </div>
   </div>
 </div>
 
-<!-- LEADER BOARD -->
+<!-- ================= OTHER TOP TABS ================= -->
+
 <div class="tab-content">
   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQikYOJQx4cmwGmF8qgmcR7UFPD4NQc69XzI_BR59fIWpx39bQgy4AlG7EQc8ejdW1112YhYLcMnyo0/pubhtml?gid=1363299594&single=true&widget=true&headers=false"></iframe>
 </div>
 
-<!-- CS PROGRESS -->
 <div class="tab-content">
   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQikYOJQx4cmwGmF8qgmcR7UFPD4NQc69XzI_BR59fIWpx39bQgy4AlG7EQc8ejdW1112YhYLcMnyo0/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
 </div>
 
-<!-- ATTENDANCE -->
 <div class="tab-content">
   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQikYOJQx4cmwGmF8qgmcR7UFPD4NQc69XzI_BR59fIWpx39bQgy4AlG7EQc8ejdW1112YhYLcMnyo0/pubhtml?gid=234393854&single=true&widget=true&headers=false"></iframe>
 </div>
 
-<!-- TICKETS -->
 <div class="tab-content">
-  <div class="placeholder">Ticket tracking dashboard will be embedded here.</div>
+  <div class="placeholder">
+    Ticket tracking dashboard will be embedded here.
+  </div>
 </div>
 
 <script>

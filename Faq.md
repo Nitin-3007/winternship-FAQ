@@ -137,12 +137,15 @@ Not guaranteed. Issued **at the instructor’s discretion**.
 
 ---
 
-## 6. Completion & Certification
+## 6. Internship Completion
 
 **6.1 What are the internship completion criteria?**  
-- **100% attendance** (1 day eligible leave)  
-- Completion of **MERN development course**  
-- Completion of **assigned project**
+We have two paths to complete the internship -
+   1. Regular path -
+      - Completion of **MERN development course** on the AI-enabled Learning Platform
+      - Completion of **Case Studies** along with Viva/Peer Endorsements
+      - Project exposure - Getting hands on experience in one of the projects
+   2. Work extraordinary, help others learn and get the **recommedation(Gold/Silver ticket)** to complete the internship.
 
 ---
 

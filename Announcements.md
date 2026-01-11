@@ -46,6 +46,8 @@ announcements:
       **Step 6: Your challenge**
       
       Using this data, students must create a dashboard that visualizes endorsement chains, penalties, incentives, and overall network health. The design and style are completely open-ended.
+
+      ***Form for Endorsement's* [Endorse here](https://forms.gle/BfSfhWbxaMnqbWBa6){:target="_blank"}**
 ---
 
 [← Back]({{ site.baseurl }}/)

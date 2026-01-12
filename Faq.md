@@ -20,7 +20,7 @@ order: 2
 11. [GitHub Assignment Submission](#11-github-assignment-submission)
 12. [Health Points System](#12-health-points-system)
 13. [MERN Case Studies](#13-mern-case-studies)
-14. [Viva/PES (Endorsements)](#14-vivapes-endorsements)
+14. [Viva/PES (Self-Healing Endorsement Network)](#14-vivapes-self-healing-endorsement-network)
 15. [Blogs](#15-blogs)
 
 
@@ -468,71 +468,146 @@ Make your learning journey a **marathon, not a race**.
 
 ---
 
-## 14. Viva/PES (Endorsements)
+## 14. Viva/PES (Self-Healing Endorsement Network)
 
-**14.1 How will the viva/evaluation process be conducted?**  
-Each intern is required to **select at least 5 evaluators (other interns)** who will evaluate their work, primarily based on their **case studies** solutions. Hence, make sure you are completed with all the Case studies before you evaluate someone or get evaluated yourself.
+**14.1 What is the Self-Healing Endorsement Network?**  
+The **Self-Healing Endorsement Network** is the official evaluation framework used for **Viva / PES**.
 
-**14.2 What is the role of the evaluators?**  
-The evaluators are expected to be **sincere** and give their **best effort** while evaluating the case studies.  
-The evaluation is mainly an **endorsement of learning**, not a formal grading process.
+It is a **peer-driven endorsement system** where interns endorse each other’s learning and contributions. All endorsements together form a **connected endorsement network**.
 
-**14.3 Will the evaluations be verified?**  
-Yes. The team will **randomly second-check** evaluated case studies.  
-If any **anomaly** is detected, the following actions may be taken:
-- Re-evaluation of the evaluated intern’s case studies  
-- Re-evaluation of the evaluator’s own case studies  
-- Re-evaluation of all case studies previously evaluated by that evaluator  
+For the network to remain valid:
+- Every chain of endorsements must **ultimately connect to a certified “Jedi”** (i.e., a **Silver, Bronze, or Gold ticket holder**)
+- Any group of interns not connected to a Jedi forms a **floating island**
+- Floating islands are considered **inactive**, and endorsements within them **will not be counted**
 
-To avoid such an **anomaly cascade**, choose your evaluators carefully.
 
-**14.4 Can two interns evaluate each other?**  
-No. If **A evaluates B**, then **B cannot evaluate A**.
+**14.2 Who are Jedi and what role do they play?**  
+A **Jedi** is an intern who holds a **Silver, Bronze, or Gold ticket**.
 
-**14.5 Can I choose evaluators from my own institute?**  
-Preferably, **no**.  
-Choosing evaluators from your own institute may raise a **first level of suspicion**. While this is **discouraged**, it is **not enforced as a strict rule**.
+Their role in the network:
+- All endorsement paths must **eventually link to a Jedi**
+- Jedi act as **anchors** that validate and legitimize endorsement chains
 
-**14.6 How many evaluators do I need?**  
-You need **exactly 5 evaluators to endorse you**.  
-If any selected person is unwilling to endorse you, you must **find a replacement**.  
-Overall, you must ensure that **at least 5 people endorse your learning**.
 
-**14.7 What does the endorsement involve?**  
-Your evaluators will fill out a **Google Form** stating that they **endorse your learning**.  
-- There is **no rating or scoring**
-- Evaluators may add **optional comments**
-- Endorsements will be submitted through a form that will be **displayed on the dashboard**
-
-**14.8 When should the evaluation be done?**  
-It is recommended to evaluate **only after completing all case studies** or once you are **confident in the concepts**.
-
-**14.9 Do we need to record our evaluation interactions?**  
-No. You only need to **interact and endorse** the person.  
-How you conduct the interaction is **entirely up to you**. No recordings are required.
-
-**14.10 Can I appeal an endorsement decision?**  
-No.  
-This is intentional, as interns are expected to choose **trustworthy evaluators** who will endorse them **honestly and fairly**.
-
-**14.11 Can I evaluate more than 5 people?**  
+**14.3 Is endorsement mandatory to complete the internship?**  
 Yes.  
-You must be evaluated by **exactly 5 people**, but you may **evaluate as many interns as you wish**.
+**Every non-Jedi intern must receive one valid endorsement** to successfully complete the internship.
 
-**14.12 What if I want to remove an endorsement or someone endorses me without my consent?**  
-You will be provided with a **separate form** that allows you to **remove an endorsement** made by a particular person.
+Important points:
+- Endorsements **must be completed within the given deadline (i.e., Friday, 16th January 2026)**
+- The final endorsement graph must **not contain any floating islands**
+- Interns who remain **unendorsed or disconnected** risk **non-completion of the internship**
 
-**14.13 What if I evaluate many people but struggle to find evaluators for myself?**  
-The teaching team **appreciates interns who evaluate many peers**.  
-In such cases, **teaching team members** can be requested to act as your evaluators.
 
-Additionally, **Silver and Golden Tickets** will be issued to selected interns.  
-- Interns receiving these tickets **do not need peer evaluation**
-- They will be **directly evaluated by Sudarshan sir and the teaching team**
-- Anyone who endorses **more than 25 people** will be evaluated by the Teaching Team and will be issued a Silver Ticket.
+**14.4 How many endorsements can I receive or give?**  
+- Each intern can **receive only one endorsement**
+- An intern may **endorse multiple other interns**
+- There is **no upper limit** on how many endorsements you can give  
 
-**14.14 How do I earn a Silver ticket?**  
-Anyone who endorses **more than 25 people** will be evaluated by the Teaching Team and will be issued a Silver Ticket.
+However, a **tree greater in length rather than breadth** is encouraged to maintain strong, meaningful chains rather than shallow mass endorsements.
+
+
+**14.5 When am I allowed to endorse someone?**  
+You may endorse anyone **at your discretion**, after assessing them in any way you find appropriate.
+
+Recommended best practices:
+- Interact with the intern before endorsing them
+- Ensure they demonstrate **sufficient understanding of the MERN stack**, **ViBe course content**, and **case studies**
+- Maintain a **healthy and collaborative interaction** — there is **no hierarchy or superiority** among co-interns so please ensure that you interact with your co-interns in a friendly manner as peers
+
+⚠️ **Important Warning:**  
+Endorsing someone with **inadequate MERN fundamentals** may trigger **audit penalties** for the **entire tree or subtree** connected to that endorsement.
+
+
+**14.6 Can I endorse or be endorsed by someone from my own college?**  
+Yes, this is **allowed**.
+
+However:
+- Endorsements within the **same institute may raise suspicion**
+- Such connections have a **higher probability of being audited** by **Bhavna ma’am**
+
+This is **not prohibited**, but interns are expected to endorse **responsibly and ethically**.
+
+
+**14.7 How do audits work in the endorsement network?**  
+Audits are conducted by **Bhavna ma’am** to identify defaulters and irregularities.
+
+If a **defaulter** is identified:
+- The **entire endorsement path** connected to that intern is audited
+- A **50% health point penalty** is applied to everyone in that connected group
+- The **defaulter and anyone who fails the audit** are **removed from the network**
+
+
+**14.8 What happens if I am certified as “good” during an audit?**  
+If an intern is certified as **“good”** by Bhavna ma’am:
+- They become **eligible to be endorsed by anyone**, even if they were previously disconnected
+- Their **credibility and trust score** within the network increases
+
+
+**14.9 What incentives exist within the endorsement network?**  
+The network is intentionally designed to be **self-healing and incentive-driven**.
+
+Whenever a new intern joins a **valid connected endorsement group**:
+- Every existing member receives a **5% health point increase**
+- The increase is calculated as:
+  - **5% of their current health points**, plus  
+  - **5% of the new member’s health points**
+
+This encourages:
+- Formation of **strong, connected networks**
+- Avoidance of risky or isolated endorsement chains
+
+
+**14.10 What data is used to manage endorsements?**  
+Endorsements are tracked using a **three-column dataset**:
+
+- **Member 1** → the endorser  
+- **Member 2** → the endorsed intern  
+- **Action** → endorsement or de-endorsement
+
+Possible actions:
+- **Add** → Member 1 endorsed Member 2  
+- **Delete** → Member 1 de-endorsed Member 2  
+- **Default** → Member 1 is a defaulter and Member 2 is the parent in the chain  
+
+This dataset is used to:
+- Track endorsement paths
+- Detect floating islands
+- Conduct audits efficiently
+
+
+**14.11 How do I submit endorsements? (Google Form Instructions)**  
+All endorsements and de-endorsements must be submitted through the **official Google Form**:
+
+🔗 **Endorsement Form Link:**  
+https://forms.gle/ptPnNE1Hnmpu85Qs5
+
+The form contains **mandatory sections**:
+1. **Endorser’s Name and Email**
+2. **Endorsed Person’s Name and Email**
+3. **Endorsement Status**
+   - `Added` → for endorsement  
+   - `Deleted` → for de-endorsement  
+4. **Remarks**  
+   - Write short, honest remarks based on your assessment
+
+📌 **Important Guidelines:**
+- The form should be filled **only once per endorsement**
+- The **endorser** should fill the form
+- Avoid duplicate or reciprocal entries
+
+⏳ **Deadline:**  
+All endorsements and de-endorsements must be completed **by Friday 16th January 2026**.
+
+
+**14.12 What should interns keep in mind while endorsing others?**  
+- Avoid careless, bulk, or reciprocal endorsements
+- Ensure your endorsement chain **connects to a Jedi**
+- Endorse based on **knowledge, effort, and contribution**
+- Be mindful that poor endorsements can cause **audit cascades**
+
+The Self-Healing Endorsement Network rewards **integrity, collaboration, responsibility, and accountability**.
+
 
 ---
 
